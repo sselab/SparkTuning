@@ -1,5 +1,5 @@
 # SparkTuning
-an cost-based optimizer for Spark programs with different complexity
+An cost-based parameter tuning tool for Spark framework
 ## How to run
 1. compile and package code/spark-1.4.0
 2. install code/spark-1.4.0 to your cluster 

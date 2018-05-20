@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 04 22:12:57 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SparkWhatIf_v3.0.jar
+manifest.mergeall=true
+manifest.mainclass=whatif.WhatIfEstimate
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|WhatIf>~test/
+includes=
